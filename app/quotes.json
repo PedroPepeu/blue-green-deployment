@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "category": "inspiration"
+    },
+    {
+      "id": 2,
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "category": "motivation"
+    },
+    {
+      "id": 3,
+      "text": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "category": "life"
+    },
+    {
+      "id": 4,
+      "text": "If life were predictable it would cease to be life, and be without flavor.",
+      "author": "Eleanor Roosevelt",
+      "category": "life"
+    },
+    {
+      "id": 5,
+      "text": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+      "author": "James Cameron",
+      "category": "motivation"
+    },
+    {
+      "id": 6,
+      "text": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "category": "life"
+    },
+    {
+      "id": 7,
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "category": "inspiration"
+    },
+    {
+      "id": 8,
+      "text": "Always remember that you are absolutely unique. Just like everyone else.",
+      "author": "Margaret Mead",
+      "category": "humor"
+    },
+    {
+      "id": 9,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "inspiration"
+    },
+    {
+      "id": 10,
+      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "author": "Benjamin Franklin",
+      "category": "education"
+    }
+  ]
